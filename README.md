@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lai-nguyen-lm.lai-nguyen-lm/" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lai-nguyen-lm.lai-nguyen-lm" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lai+Nguyen!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lai+Nguyen+🤵;+I'm+From+Danang+City+🌇;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Vietnam vn</h3>
@@ -10,25 +10,28 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Software, Application, Website and ERP**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **AWS, Azure, React, English Ielts**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/lai-nguyen-lm/lai-nguyen-lm/issues)**
+💬 Ask me about **C#, .NET, SQL... or anything [here](https://github.com/lai-nguyen-lm/lai-nguyen-lm/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Pursuing passion for programming. 
+Try to learning as much as possible and doing my best in order to accompish my task. 
+To have good opportunities to get promotion in my job. 
+Develop my skills with development of company, I want to prove myself.
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:phamhuy200799@gmail.com">
+  <a href="/">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/huypham-swe" target="_blank">
+  <a href="/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/HuyPDNN/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="/" target="_blank">
+      <img src="https://img.shields.io/badge/github-007acc?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -37,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,java,nodejs,jquery,js,html,css,bootstrap,react,angular,mongodb,npm,rabbitmq,ts,git" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,postgres,azure,redis,postman,bitbucket,github,jenkins,docker,nginx,notion" /><br>
 </div>
 
 <br/>
@@ -57,20 +60,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-lai-nguyen-lm.vercel.app/?user=lai-nguyen-lm&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-lai-nguyen-lm.vercel.app/api?username=lai-nguyen-lm&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-lai-nguyen-lm.vercel.app/api/top-langs/?username=lai-nguyen-lm&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lai-nguyen-lm&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
