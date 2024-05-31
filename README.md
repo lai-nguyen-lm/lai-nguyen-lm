@@ -50,7 +50,7 @@ Develop my skills with development of company, I want to prove myself.
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   ![snake animation](https://github.com/<seu lai-nguyen-lm>/<seu lai-nguyen-lm>/blob/output/github-contribution-grid-snake2.svg)
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lai-nguyen-lm/lai-nguyen-lm/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
