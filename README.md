@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **AWS, Azure, React, English Ielts**
 
-💬 Ask me about **C#, .NET, SQL... or anything [here](https://github.com/lai-nguyen-lm/lai-nguyen-lm/issues)**
+💬 Ask me about **PHP, Laravel, MySQL... or anything [here](https://github.com/lai-nguyen-lm/lai-nguyen-lm/issues)**
 
 ⚡ Pursuing passion for programming. 
 Try to learning as much as possible and doing my best in order to accompish my task. 
@@ -40,8 +40,8 @@ Develop my skills with development of company, I want to prove myself.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,nodejs,jquery,js,html,css,bootstrap,react,angular,mongodb,npm,rabbitmq,ts,git" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,postgres,azure,redis,postman,bitbucket,github,jenkins,docker,nginx,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,javascript,nodejs,jquery,js,html,CSS,scss,bootstrap,vuejs,angular,mongodb,npm,rabbitmq,ts,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,MySQL,postgres,azure,redis,postman,bitbucket,github,jenkins,docker,nginx" /><br>
 </div>
 
 <br/>
